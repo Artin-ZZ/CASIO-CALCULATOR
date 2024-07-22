@@ -1,0 +1,10 @@
+D:\Currently-Working\ACTIVE_WORK\C#\Calculator-GUI\AT-Calculator\AT-Calculator\bin\Debug\AT-Calculator.exe.config
+D:\Currently-Working\ACTIVE_WORK\C#\Calculator-GUI\AT-Calculator\AT-Calculator\bin\Debug\AT-Calculator.exe
+D:\Currently-Working\ACTIVE_WORK\C#\Calculator-GUI\AT-Calculator\AT-Calculator\bin\Debug\AT-Calculator.pdb
+D:\Currently-Working\ACTIVE_WORK\C#\Calculator-GUI\AT-Calculator\AT-Calculator\obj\Debug\AT-Calculator.csproj.AssemblyReference.cache
+D:\Currently-Working\ACTIVE_WORK\C#\Calculator-GUI\AT-Calculator\AT-Calculator\obj\Debug\AT_Calculator.Properties.Resources.resources
+D:\Currently-Working\ACTIVE_WORK\C#\Calculator-GUI\AT-Calculator\AT-Calculator\obj\Debug\AT-Calculator.csproj.GenerateResource.cache
+D:\Currently-Working\ACTIVE_WORK\C#\Calculator-GUI\AT-Calculator\AT-Calculator\obj\Debug\AT-Calculator.csproj.CoreCompileInputs.cache
+D:\Currently-Working\ACTIVE_WORK\C#\Calculator-GUI\AT-Calculator\AT-Calculator\obj\Debug\AT-Calculator.exe
+D:\Currently-Working\ACTIVE_WORK\C#\Calculator-GUI\AT-Calculator\AT-Calculator\obj\Debug\AT-Calculator.pdb
+D:\Currently-Working\ACTIVE_WORK\C#\Calculator-GUI\AT-Calculator\AT-Calculator\obj\Debug\AT_Calculator.CASIO_Calc.resources
